@@ -65,5 +65,5 @@ _**Premium**_
     // imprime 'red', 'blue' o 'green'
     ```
 5. Utiliza la función creada `getRandom` para utilizar colores aleatorios de una paleta que hayas escogido de [coolors.co](https://coolors.co/palettes/trending) en los apartados anteriores.
-
+  
 6. Utiliza la función creada `getRandom` para utilizar _gifs_ aleatorios  en los apartados anteriores.
